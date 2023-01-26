@@ -53,6 +53,8 @@ def max_marks(list1):
 ```
 
 ## Output:
+![MAX](https://user-images.githubusercontent.com/119559844/214958953-16313c8e-3b63-42b3-bf63-39c0594d28ef.png)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
